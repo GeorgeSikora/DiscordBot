@@ -1,0 +1,20 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "discord": "^0.8.2",
+    "discord.js": "^12.5.1",
+    "loader.js": "^4.7.0",
+    "node-gyp": "^7.1.2",
+    "node-pre-gyp": "^0.17.0",
+    "process": "^0.11.10"
+  }
+}
